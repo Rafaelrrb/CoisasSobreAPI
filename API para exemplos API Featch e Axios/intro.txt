@@ -1,0 +1,4 @@
+npm i 
+  isntala as dependencias
+npm start
+  roda o projeto

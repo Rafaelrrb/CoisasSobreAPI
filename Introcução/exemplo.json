@@ -1,0 +1,13 @@
+{
+  "nome": "Rafael R Borba",
+  "cidade": "SLS",
+  "Telefone": 9236498234,
+  "lirvros_favoriots": [
+    "A",
+    "B"
+  ],
+  "hobbies":{
+    "semana": "estudos",
+    "fim_de_semana": "Jogar"
+  }
+}

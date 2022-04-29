@@ -1,0 +1,13 @@
+npm init -y
+  Cria o package.json pra começar o projeto
+
+npm i express - https://www.npmjs.com/package/express
+  instalar o pacote express do node 
+
+npm i axios
+  intalar para poder consumir a API
+
+npm i 
+  isntala as dependencias
+npm start
+  roda o projeto

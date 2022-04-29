@@ -1,0 +1,22 @@
+API
+  Proporcionam a integração entre sistemas que possuem linguagem totalmente distintas de maneira ágil e segura. A maneira como as APIs proporcionam a integração gera uma troca de informações de forma muito segura. Isso porque elas criam uma espécie de portão, na qual apenas conjunto específico de informações – definido pela empresa proprietária da aplicação – estará disponível.
+
+JSON - https://www.json.org/json-en.html
+  Pode conter textos, numeros, arrays e objetos (exemplo.json)
+
+Metodos HTTP
+
+  GET
+    a API fornce informações
+
+  POST
+    a API recebe informações que devem ser registradas 
+
+  DELETE
+    a API recebe informações de registros que devem ser apagados
+
+  PUT
+    a API recebe informações para update de um ou mais registros
+  
+  PATCH
+    a API recebe informações para update de um registro
